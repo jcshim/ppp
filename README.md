@@ -1,5 +1,5 @@
 # Procedure Programming Paradigm
-* 연수: 초중등교사 직무연수
+## * 연수: 초중등교사 직무연수
 * 제목: 절차적 SW 패러다임 [절차지향 SW패러다임 (Procedure-oriented Software Paradigms)]
 * 지원: 영재교육원 - 전용주 교수님
 * 참석예정자: 17명 (초교 16, 고교 1)
